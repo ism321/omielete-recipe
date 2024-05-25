@@ -1,0 +1,47 @@
+body{
+    
+    background-color:#fff7fb;
+    display: flex;
+    justify-content: center;
+
+}
+#container{
+height: 1708px;
+width: 736px; ;
+background-color:white;
+padding: 40px;
+}
+#img{
+    width: 656px;
+    height: 300px;
+    background-image: url(image-omelette.jpeg);
+    background-size: cover;
+border-radius: 10px;
+}
+#box1{height: 180px;
+width: 656px;
+background-color:#fff7fb;
+h3{color: #85463200;}
+padding: 25px 28px 25px 28px; 
+}
+#box2{width:656px ;
+    height: 204px;
+    padding: 28px 28px 28px 28px; 
+    h2{
+    color:#854632;}
+ color:#5f564d;
+}
+ #box3{width: 656px; 
+height: 332px; ;
+h2{color: #854632;}
+b {color: #5f564d;}
+li::marker{color:#854632 ;}
+li{font: weight 50px;;}
+}
+#box4{width: 656px;
+height: 268px;
+h2{color: #854632;}
+a{color: #854632;
+  font-weight: bold;  
+}
+}
